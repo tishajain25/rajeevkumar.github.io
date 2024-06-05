@@ -366,3 +366,15 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+.styled-table {
+    width: 70%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 18px;
+    text-align: left;
+}
+
+.styled-table .c1, .styled-table .c2, .styled-table .c3 {
+    width: 33.33%; 
+} 
